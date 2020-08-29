@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leaf7th&count_private=true&show_icons=true" />
+</a>
+
 I'm **Nook**, interested in games and programming 
 
 - 🚍 I’m currently working on: student
@@ -10,16 +14,6 @@ I'm **Nook**, interested in games and programming
 ![](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-
-
-- 📫 How to reach me: 
-    - Discord: @Nook#6769
-    - Steam: [Nook](https://steamcommunity.com/id/divinook/)
-    - Email: <slomo7@outlook.com>
-    
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=leaf7th&hide=html)
-
-[![Nook's github stats](https://github-readme-stats.vercel.app/api?username=leaf7th)](https://github.com/leaf7th/github-readme-stats)
 
 
 ### Nook's Projects
