@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I'm **Nook**, interested in games and programming.
+I'm **Nook**, interested in games and programming 
+
+- 🚍 I’m currently working on: student
+- 🌱 I’m currently learning: C++, Shell
+
+💻**My Skills**  
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
 
 - 📫 How to reach me: 
     - Discord: @Nook#6769
