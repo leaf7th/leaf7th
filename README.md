@@ -18,7 +18,7 @@ I'm **Nook**, interested in games and programming
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 
-### Nook's Projects
+### My Projects
 |Name|Description|Language|Status
 |:----:|:----:|:----:|:----:|
 |[Animal Crossing Bot](https://github.com/leaf7th/animal_crossing)|Animal Crossing QQ Bot|Python|Stop
