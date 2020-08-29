@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**leaf7th/leaf7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nook**, interested in games and programming.
 
-Here are some ideas to get you started:
+This is my open source project repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+    - Discord: @Nook#6769
+    - Steam: [Nook](https://steamcommunity.com/id/divinook/)
+    - Email: <slomo7@outlook.com>
+    
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=leaf7th&hide=html)
+
+[![Nook's github stats](https://github-readme-stats.vercel.app/api?username=leaf7th)](https://github.com/leaf7th/github-readme-stats)
+
+
+### Nook's Projects
+|Name|Description|Language|Status
+|:----:|:----:|:----:|:----:|
+|[Animal Crossing Bot](https://github.com/leaf7th/animal_crossing)|Animal Crossing QQ Bot|Python|Stop
+|[Nook's Blog](https://leaf7th.github.io/)|Blog|HTML/CSS/JavaScript/Markdown|Running
