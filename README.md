@@ -2,7 +2,7 @@
 
 I'm **Nook**, interested in games and programming.
 
-This is my open source project repository
+This is my open source project repository.
 
 - 📫 How to reach me: 
     - Discord: @Nook#6769
