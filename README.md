@@ -8,6 +8,8 @@ I'm **Nook**, interested in games and programming
 
 - 🚍 I’m currently working on: student
 - 🌱 I’m currently learning: C++, Shell
+- 🎮 Add me as a friend: [@Nook](https://steamcommunity.com/id/divinook/)
+- 📧 Contact me: <slomo7@outlook.com>
 
 💻**My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
